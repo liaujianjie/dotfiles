@@ -25,3 +25,5 @@ curl -sSL https://get.rvm.io | bash -s stable
 
 # install minikube
 brew cask install minikube
+
+# TODO: symlink the dotfiles here...
