@@ -16,9 +16,9 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 nvm install 8.11.3 --latest-npm
 nvm install 10.6.0 --latest-npm
 
-# install avn
-npm install -g avn avn-nvm avn-n
-avn setup
+# install avn (removed because its so slow)
+# npm install -g avn avn-nvm avn-n
+# avn setup
 
 # install rvm
 curl -sSL https://get.rvm.io | bash -s stable
