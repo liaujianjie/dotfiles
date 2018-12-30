@@ -20,8 +20,8 @@ nvm install 10.6.0 --latest-npm
 # npm install -g avn avn-nvm avn-n
 # avn setup
 
-# install rvm
-curl -sSL https://get.rvm.io | bash -s stable
+# install rbenv
+brew install rbenv
 
 # install minikube
 brew cask install minikube
